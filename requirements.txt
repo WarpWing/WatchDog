@@ -1,0 +1,4 @@
+nextcord
+discord
+asyncio
+requests
