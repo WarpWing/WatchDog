@@ -2,3 +2,4 @@ nextcord
 discord
 asyncio
 requests
+selenium
